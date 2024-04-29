@@ -17,13 +17,12 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 4.Calculate the y-prediction.
 
 ## Program:
-```python
 '''
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: PULI NAGA NEERAJ
 RegisterNumber:  212223240130
 '''
-
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
